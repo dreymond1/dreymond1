@@ -34,6 +34,7 @@ I'm a 20 years old Computer Science student at Centro Federal de Educação Cels
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg width='50' height='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg width='50' height='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg width='50' heigth='50'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg width='50' heigth='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg width='50' heigth='50'>
  <!--
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg width='50' height='50'>
