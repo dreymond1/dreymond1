@@ -2,6 +2,7 @@
 
 ## **Hey there, my name is Andrey.** ## 
 
+
 I'm a 20 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
 ***
@@ -33,6 +34,7 @@ I'm a 20 years old Computer Science student at Centro Federal de Educação Cels
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg width='50' height='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg width='50' height='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg width='50' heigth='50'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg width='50' heigth='50'>
  <!--
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg width='50' height='50'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg width='45' height='45'>
