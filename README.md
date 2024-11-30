@@ -19,7 +19,7 @@
 
 ***
 ### **PROJECTS DONE** ###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreymond1&repo=IA-BOT&show_owner=true&theme=radical)](https://github.com/dreymond1/IA-BOT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreymond1&repo=sentimental-analize&show_owner=true&theme=radical)](https://github.com/dreymond1/sentimental-analize)
 
 
 
