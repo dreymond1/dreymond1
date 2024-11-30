@@ -2,13 +2,10 @@
 
 ## **Hey there, my name is Andrey.** ## 
 
-
-I'm a 20 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
-
 ***
-:rocket: I have knowledge in python, django, and IA
+:rocket: I have knowledge in python, machine learning and statistic.
 
-:books: I'm currently learning react.js and node.Js
+:books: I'm currently learning others python functionality. 
 
 
 ***
