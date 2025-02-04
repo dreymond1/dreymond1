@@ -19,7 +19,7 @@
 
 ***
 ### **PROJECTS DONE** ###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreymond1&repo=sentimental-analize&show_owner=true&theme=radical)](https://github.com/dreymond1/sentiment-analysis-app-demonstration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreymond1&repo=sentiment-analysis-app-demonstration&show_owner=true&theme=radical)](https://github.com/dreymond1/sentiment-analysis-app-demonstration)
 
 
 
