@@ -3,7 +3,7 @@
 ## **Hey there, my name is Andrey.** ## 
 
 ***
-:rocket: I have knowledge in python, machine learning and statistic.
+:rocket: I have knowledge in python, IA, machine learning and statistic.
 
 :books: I'm currently learning others python functionality. 
 
